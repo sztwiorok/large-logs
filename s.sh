@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Nazwa pliku wyjściowego
-OUTPUT_FILE="generated_logs.txt"
+OUTPUT_FILE="file.txt"
 
 # Usunięcie poprzedniego pliku, jeśli istnieje
 rm -f "$OUTPUT_FILE"
